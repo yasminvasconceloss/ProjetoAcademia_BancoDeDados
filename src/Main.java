@@ -1,3 +1,5 @@
+// Projeto Academia feito por: Luana Severini e Yasmin Vasconcelos
+
 import database.ConnectionFactory;
 import Models.Aluno;
 import Models.Plano;
